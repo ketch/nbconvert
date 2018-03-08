@@ -14,7 +14,7 @@
         // we use CSS to left justify single line equations in code cells.
         displayAlign: 'center',
         "HTML-CSS": {
-            styles: {'.MathJax_Display': {"margin": 0}},
+            styles: {'.MathJax_Display': {"margin-top": "10px", "margin-bottom": "10px"}},
             linebreaks: { automatic: true }
         }
     });
